@@ -1,4 +1,4 @@
-# 🌐 Cientista de Dados - Igor
+# 🌐 Cientista de Dados - Igor Senário
 
 Bem-vindo ao repositório do meu site de portfólio pessoal como **Cientista de Dados**. Aqui você encontrará uma vitrine dos meus projetos, habilidades técnicas, experiências e aprendizados ao longo da minha jornada na área de dados.
 
@@ -40,17 +40,29 @@ Outros:
 ## 📁 Estrutura do Projeto
 
 ├── public/
+
 ├── src/
+
 │ ├── assets/
+
 │ ├── components/
+
 │ ├── pages/
+
 │ ├── data/ # Arquivos JSON com projetos, skills, etc.
+
 │ ├── hooks/
+
 │ ├── styles/
+
 │ └── App.tsx
+
 ├── tailwind.config.js
+
 ├── tsconfig.json
+
 ├── vite.config.ts
+
 └── README.md
 
 
