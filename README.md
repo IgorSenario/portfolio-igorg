@@ -86,7 +86,7 @@ Outros:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-portfolio.git
+git clone https://github.com/IgorSenario/portfolio-igorg.git
 
 # Acesse a pasta
 cd seu-portfolio
